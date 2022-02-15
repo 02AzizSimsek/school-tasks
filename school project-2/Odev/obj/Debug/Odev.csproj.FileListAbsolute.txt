@@ -1,0 +1,21 @@
+C:\Users\uzman\Desktop\string\Odev\Odev\bin\Debug\Odev.exe.config
+C:\Users\uzman\Desktop\string\Odev\Odev\bin\Debug\Odev.exe
+C:\Users\uzman\Desktop\string\Odev\Odev\bin\Debug\Odev.pdb
+C:\Users\uzman\Desktop\string\Odev\Odev\obj\Debug\Odev.csprojAssemblyReference.cache
+C:\Users\uzman\Desktop\string\Odev\Odev\obj\Debug\Odev.csproj.CoreCompileInputs.cache
+C:\Users\uzman\Desktop\string\Odev\Odev\obj\Debug\Odev.exe
+C:\Users\uzman\Desktop\string\Odev\Odev\obj\Debug\Odev.pdb
+C:\Users\LENOVO\Desktop\Odev\Odev\bin\Debug\Odev.exe.config
+C:\Users\LENOVO\Desktop\Odev\Odev\bin\Debug\Odev.exe
+C:\Users\LENOVO\Desktop\Odev\Odev\bin\Debug\Odev.pdb
+C:\Users\LENOVO\Desktop\Odev\Odev\obj\Debug\Odev.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Odev\Odev\obj\Debug\Odev.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Odev\Odev\obj\Debug\Odev.exe
+C:\Users\LENOVO\Desktop\Odev\Odev\obj\Debug\Odev.pdb
+C:\Users\LENOVO\Desktop\b201210394.aziz şimşek .nesne ödevi2\Ödev1.1\Odev\bin\Debug\Odev.exe.config
+C:\Users\LENOVO\Desktop\b201210394.aziz şimşek .nesne ödevi2\Ödev1.1\Odev\bin\Debug\Odev.exe
+C:\Users\LENOVO\Desktop\b201210394.aziz şimşek .nesne ödevi2\Ödev1.1\Odev\bin\Debug\Odev.pdb
+C:\Users\LENOVO\Desktop\b201210394.aziz şimşek .nesne ödevi2\Ödev1.1\Odev\obj\Debug\Odev.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\b201210394.aziz şimşek .nesne ödevi2\Ödev1.1\Odev\obj\Debug\Odev.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\b201210394.aziz şimşek .nesne ödevi2\Ödev1.1\Odev\obj\Debug\Odev.exe
+C:\Users\LENOVO\Desktop\b201210394.aziz şimşek .nesne ödevi2\Ödev1.1\Odev\obj\Debug\Odev.pdb
